@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAssetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AssetData>
+    <assetName>13ca6cc4bfa90a9418fb620ec32f91ecskybox_mars3_up_jpg</assetName>
+    <assetSize>703460</assetSize>
+  </AssetData>
+  <AssetData>
+    <assetName>57b3ae6534f3aa94eb219ad223781017skybox_mars3_right_jpg</assetName>
+    <assetSize>703468</assetSize>
+  </AssetData>
+  <AssetData>
+    <assetName>db78474880f502e408367fc724ae87a8Mars_S2_Map_jpg</assetName>
+    <assetSize>179156</assetSize>
+  </AssetData>
+  <AssetData>
+    <assetName>3dd7ea495cdb5404b88f1a1684219a3bskybox_mars3_left_jpg</assetName>
+    <assetSize>703468</assetSize>
+  </AssetData>
+  <AssetData>
+    <assetName>0ff5956b0a44bba459f952f410bbcfc0skybox_mars3_back_jpg</assetName>
+    <assetSize>703468</assetSize>
+  </AssetData>
+  <AssetData>
+    <assetName>8588fabba3f9ba941834a023ac07e058skybox_mars3_front_jpg</assetName>
+    <assetSize>703468</assetSize>
+  </AssetData>
+</ArrayOfAssetData>

@@ -1,0 +1,2 @@
+cd robocraft15
+start RobocraftClient.exe

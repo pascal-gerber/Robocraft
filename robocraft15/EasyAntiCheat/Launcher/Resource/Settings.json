@@ -1,0 +1,21 @@
+{
+	"gameid"			: "20",
+	"title"				: "Robocraft",
+	"executable"			: "RobocraftClient.exe",
+	"parameters"			: "",
+	"use_cmdline_parameters"	: "0",
+
+	"strings" : [
+	{
+		"language"	: "en",
+		"yes"		: "Yes",
+		"no"		: "No",
+		"cancel"	: "Cancel",
+		"exit"		: "Exit",
+		"loading"	: "Loading...",
+		"wait"		: "Please Wait",
+		"err_nolib"	: "Could not load EasyAntiCheat library.",
+		"prompt_exit"	: "Are you sure you want to quit?"
+	}
+	]
+}

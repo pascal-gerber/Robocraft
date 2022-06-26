@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAssetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AssetData>
+    <assetName>301349514ceb8e740825dfb8cb30f947Sky_Neptune_S2_left_jpg</assetName>
+    <assetSize>703468</assetSize>
+  </AssetData>
+  <AssetData>
+    <assetName>9c567cf19ecfa494ca4a0cfb00d5f21fSky_Neptune_S2_up_jpg</assetName>
+    <assetSize>703468</assetSize>
+  </AssetData>
+  <AssetData>
+    <assetName>071fdab25bf2dda4cb8c7834b7def54fSky_Neptune_S2_back_jpg</assetName>
+    <assetSize>703468</assetSize>
+  </AssetData>
+  <AssetData>
+    <assetName>cb77278739ed64e42ab1cb180acee4feSky_Neptune_S2_front_jpg</assetName>
+    <assetSize>703472</assetSize>
+  </AssetData>
+  <AssetData>
+    <assetName>a4163969acb297f4bbfe9ecfa6631b49Sky_Neptune_S2_right_jpg</assetName>
+    <assetSize>703472</assetSize>
+  </AssetData>
+  <AssetData>
+    <assetName>5cb5c76c5c6ef8347b78860b6321e6ecGJ_1214b_S2_Map_jpg</assetName>
+    <assetSize>179172</assetSize>
+  </AssetData>
+</ArrayOfAssetData>

@@ -1,0 +1,15 @@
+<ns:robocraft-configuration xmlns:ns="corroborate/config/xml" version="1.3.1">
+	<DefaultLanguage>English</DefaultLanguage>
+    <hint>
+      <imageurl>
+		<English>Tut_1_Overclock_HUD_1.png</English>
+	  </imageurl>
+      <text>strHintSingleKillOverclock</text>      
+    </hint>
+	<hint>
+      <imageurl>
+		<English>Tut_2_Motion_Blur_Robot.png</English>
+	  </imageurl>
+      <text>strHintSingleMoveOverclock</text>     
+    </hint>
+</ns:robocraft-configuration>
