@@ -1,2 +1,262 @@
 Initialize engine version: 4.6.2f1 (bd99309c2ad7)
 GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 30.0.14.7141]
+    Renderer: NVIDIA GeForce GTX 1080
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\BCrypt.Net.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\BCrypt.Net.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\EasyAntiCheat.Client.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\EasyAntiCheat.Client.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Fabric.AudioSpline.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Fabric.AudioSpline.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Fabric.Core.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Fabric.Core.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Fabric.LoudnessMeter.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Fabric.LoudnessMeter.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Fabric.ModularSynth.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Fabric.ModularSynth.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\HOTween.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\HOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\log4net.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\log4net.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\PlayerIOUnity3DClient.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\PlayerIOUnity3DClient.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Rewired_Core.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Rewired_Core.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\System.Threading.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\System.Threading.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\UnityEngine.Cloud.Analytics.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\UnityEngine.Cloud.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\UnityEngine.CrashLog.dll (this message is harmless)
+Loading C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\UnityEngine.CrashLog.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\System.dll (this message is harmless)
+Fallback handler could not load library C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/RobocraftClient_Data/Mono/libc
+Fallback handler could not load library C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/RobocraftClient_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/RobocraftClient_Data/Mono/libc
+Non platform assembly: data-1338A028 (this message is harmless)
+Fallback handler could not load library C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/RobocraftClient_Data/Mono/data-1338A028.dll
+Non platform assembly: data-133B26A8 (this message is harmless)
+Fallback handler could not load library C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/RobocraftClient_Data/Mono/data-133B26A8.dll
+Non platform assembly: data-03A12020 (this message is harmless)
+Fallback handler could not load library C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/RobocraftClient_Data/Mono/data-03A12020.dll
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\System.Xml.dll (this message is harmless)
+[00:00:01.31] --> Date: 6/26/2022 2:06:03 PM
+[00:00:01.32] --> UTC Date: 6/26/2022 12:06:03 PM
+[00:00:01.32] --> Memory Size: 32704
+[00:00:01.32] --> Processor Type: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+[00:00:01.32] --> OS: Windows 8.1  (6.3.19042) 64bit
+[00:00:01.35] --> EAC :: Initialization completed.
+[00:00:01.54] --> Steam client not found
+[00:00:01.55] --> [Curse Overlay] Initializing overlay...
+[00:00:01.55] --> [Curse Overlay] Successfully initialized.
+[00:00:02.26] --> Start Login
+--==-- --==-- Using http://the-rc14-project.s3.us-east-2.amazonaws.com/s3Data.json for S3URL.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+--=-- --=-- Manually set data instead of grabbing it from the given URL, as the request seems to always fail for now.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[00:00:04.67] --> Successfully connected
+[00:00:04.67] --> Login Successful
+[00:00:04.68] --> EAC Connected
+[00:00:04.68] --> Start to create/join Service Room
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Mono.Security.dll (this message is harmless)
+[00:00:06.08] --> Room Created
+[00:00:06.08] --> Web Service Room successfuly joined
+[00:00:06.08] --> CheckGameVersion connection created
+[00:00:06.23] --> CheckGameVersion service returned
+[00:00:06.23] -!!!!!!-> currentVersion: 1010 - correctVersion: 1010
+[00:00:06.23] --> Game Version Checked
+[00:00:06.23] --> Check maintenance mode
+[00:00:06.41] --> Login service returned
+[00:00:06.41] --> maintenance mode passed
+[00:00:06.41] --> Validate User after Login
+[00:00:07.07] --> Login service returned
+[00:00:07.07] --> User Validated
+$@!$ --- Attempt create comms room!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+True && True && True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[00:00:07.08] --> Start Game Loading
+$$$ ---- $$$ - Attempt join room!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Attempt setup connection...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+!++++!!++++! == - Connection setup!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+The file 'C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/assetbundles/890a681a288cb3741a9257e267f1f8e2CubeTypeList_prefab.unity3d' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 2083332 > 2083328]
+ 
+(Filename:  Line: 273)
+
+The file 'C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/assetbundles/890a681a288cb3741a9257e267f1f8e2CubeTypeList_prefab.unity3d' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 2737476 > 2737472]
+ 
+(Filename:  Line: 273)
+
+The file 'C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/assetbundles/890a681a288cb3741a9257e267f1f8e2CubeTypeList_prefab.unity3d' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 4246956 > 4246952]
+ 
+(Filename:  Line: 273)
+
+The file 'C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/assetbundles/890a681a288cb3741a9257e267f1f8e2CubeTypeList_prefab.unity3d' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 14154188 > 14154184]
+ 
+(Filename:  Line: 273)
+
+The file 'C:/Users/pascal/Desktop/old-robocraft-main/robocraft15/assetbundles/890a681a288cb3741a9257e267f1f8e2CubeTypeList_prefab.unity3d' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 16310844 > 16310840]
+ 
+(Filename:  Line: 273)
+
+Shader 'Diffuse': fallback shader 'VertexLit' not found
+UnloadTime: 5.399200 ms
+$@!$ --- Attempt create comms room!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+True && False && True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Attempting to join social room social_default_0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+The AnimationClip 'FirstVictory_loop' used by the Animation component 'Panel_1ST VICTORY BONUS' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+[00:00:10.79] ------> AntialiasingAsPostEffect DISABLED
+[00:00:10.79] ------> Forward Rendering
+[00:00:10.79] ------> BloomAndFlares DISABLED
+[00:00:10.79] ------> SunShafts DISABLED
+The AnimationClip 'FirstVictory_loop' used by the Animation component 'Panel_1ST VICTORY BONUS' must be marked as Legacy.
+ 
+(Filename:  Line: 1998)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+[00:00:10.82] --> editText Char limit: 80
+[00:00:10.82] --> editText Char limit: 128
+InvalidOperationException: Operation is not valid due to the current state of the object
+  at System.Linq.Enumerable.First[EventListener] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable.First[EventListener] (IEnumerable`1 source, System.Func`2 predicate) [0x00000] in <filename unknown>:0 
+  at UnityContext`1[T].Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Debug:Internal_LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityContext`1:Awake()
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 1924 / Dirty serialized files: 0)
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 54666.
+Total: 35.423698 ms (FindLiveObjects: 1.642100 ms CreateObjectMapping: 3.321100 ms MarkObjects: 23.126900 ms  DeleteObjects: 6.519400 ms)
+
+[00:00:10.95] --> QuitListener.Start
+[00:00:10.95] --> QuitListener.Start
+[00:00:11.00] --> QuitListener.Start
+[00:00:11.01] --> QuitListener.Start
+Unlit/Transparent shader doesn't have a clipped shader version for 0 clip regions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unlit/Transparent shader doesn't have a clipped shader version for 0 clip regions
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[00:00:11.15] ------> Back to mothership
+[00:00:11.35] --> Profanity Filter : files not correctly loaded
+[00:00:11.35] --> Switching to: Friend3
+[00:00:11.35] --> Switching to: Platoon
+[00:00:11.35] --> Switching to: Friend1
+[00:00:11.35] --> Switching to: Global
+[00:00:11.35] --> Switching to: Global
+[00:00:12.89] --> Connecting to lobby
+[00:00:12.89] --> Adding Token: YzZhOTgxNzEtOTU2Mi00ZTA2LWI0ZWYtMzIxZDdlNGU4ODMw
+[00:00:14.05] --> LastBattleScoreController request data
+[00:00:14.08] --> PlayerIOChat.JoinRoom(Chat.Lobby.en.0)
+[00:00:14.48] --> QuitListener.OnApplicationQuit
+[00:00:14.48] --> Quit Interrupted
+[00:00:14.48] --> Cancelling Applicaiton quit
+[00:00:14.48] --> QuitListener.OnApplicationQuit
+[00:00:14.48] --> QuitListener.OnApplicationQuit
+[00:00:14.48] --> QuitListener.OnApplicationQuit
+Platform assembly: C:\Users\pascal\Desktop\old-robocraft-main\robocraft15\RobocraftClient_Data\Managed\Boo.Lang.dll (this message is harmless)
+[00:00:15.55] --> LastBattleScoreController: OnAddedScoreSuccess. Score=0  last match score=0
+[00:00:17.94] --> Lobby Room successfuly joined
+[00:00:17.94] --> Connection to Lobby successful
+[00:00:17.94] --> OnConnected is null
+GA Error: No network connection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+ 
+(Filename:  Line: 1075)
+
+You are trying to load data from a www stream which had the following error when downloading.
+couldn't connect to host
+ 
+(Filename:  Line: 1075)
+
+MotherShipLoaded : 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+GA Error: couldn't connect to host
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[00:06:32.76] --> QuitGame
+[00:06:32.77] --> QuitListener.OnApplicationQuit
+[00:06:32.77] --> QuitListener.OnApplicationQuit
+[00:06:32.77] --> QuitListener.OnApplicationQuit
+[00:06:32.77] --> QuitListener.OnApplicationQuit
+[00:06:32.80] --> PlayerIOChat.LeaveRoom(Chat.Lobby.en.0)
